@@ -1,0 +1,2 @@
+# Aucune dépendance tierce : le harness est 100 % stdlib Python 3 (>= 3.10).
+# Ce fichier existe pour d'éventuelles extensions futures.
